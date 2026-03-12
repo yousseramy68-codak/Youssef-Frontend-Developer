@@ -1,66 +1,51 @@
-# Youssef-Frontend-Developer
-Showcase of my front-end projects and skills – HTML, CSS, JavaScript &amp; modern web development. 🌐
-# 👋 مرحباً، أنا Youssef Ramy
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
+</p>
 
-مرحباً بك في صفحتي على GitHub! 👨‍💻  
-أنا مطور ومبرمج شغوف بتعلم كل جديد في عالم البرمجة، أحب بناء المشاريع العملية ومشاركة المعرفة.
-
----
-
-## 🛠️ المهارات
-
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma
-- **Automation & Scripting:** Python, Bash, APIs
+<h1 align="center">Hey 👋, I'm Youssef</h1>
+<h3 align="center">Front-End Developer | HTML, CSS & JavaScript Enthusiast 🚀</h3>
 
 ---
 
-## 📂 المشاريع البارزة
+## 🛠️ Skills & Technologies
 
-| المشروع | الوصف | اللينك |
-|---------|-------|--------|
-| مشروع HTML Portfolio | موقع شخصي يعرض مشاريعك | [رابط المشروع](#) |
-| CODAK Academy | أكاديمية لتعليم البرمجة | [رابط المشروع](#) |
-| نهال ستور | متجر إلكتروني للشنط | [رابط المشروع](#) |
-
-> ⚡ المشاريع تتطور باستمرار، تابع الصفحة لتحديثات جديدة.
-
----
-
-## 💡 عني
-
-- أحب **التعلم المستمر** وتجربة تقنيات جديدة.
-- مؤمن بأن **التطبيق العملي أفضل وسيلة للتعلم**.
-- أحب العمل على مشاريع صغيرة وسريعة لتطوير مهاراتي.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📫 تواصل معي
+## 📂 Featured Projects
 
-- **البريد الإلكتروني:** youssef@example.com  
-- **LinkedIn:** [linkedin.com/in/yousseframy](#)  
-- **GitHub:** [github.com/YourUsername](#)  
+| Project | Description | Link |
+|---------|-------------|------|
+| **Portfolio** | My personal front-end portfolio | [View Repo](#) |
+| **CODAK Academy** | Web projects & tutorials | [View Repo](#) |
+| **Nehal Store** | E-commerce website for bags | [View Repo](#) |
 
----
-
-## 🔗 تابعني
-
-[![GitHub Followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
-[![Twitter](https://img.shields.io/twitter/follow/YourTwitter?style=social)](#)
+> ⚡ More projects are added regularly. Stay tuned!
 
 ---
 
-## 🌟 دعوة للمساهمة
+## 📈 GitHub Stats
 
-إذا أعجبك أي مشروع، يمكنك:
-
-- ⭐ **Star** للمشروع لدعمنا  
-- 🐛 **فتح Issues** للإبلاغ عن أي خطأ  
-- 💻 **Fork** لتطوير مشروعك الخاص
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" width="49%" />
+</p>
 
 ---
 
-> “البرمجة ليست فقط كتابة كود، بل هي فن التفكير وحل المشاكل.” 🚀
+## 📫 Contact Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YoussefRamy)
+[![Gmail](https://img.shields.io/badge/Gmail-youssef%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Youssef-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+
+---
+
+> “Front-End development is not just coding – it's creating experiences users love.” 🌟
+> 
